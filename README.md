@@ -4,12 +4,12 @@ Repo for all new to me concepts:
 
 ## TODO List
 
-- [ ] Rust
+- Rust
     - [x] Install
     - [ ] Install Guide
     - [x] Hello There Code
     - [ ] Web Assembly
-- [ ] Golang
+- Golang
     - [x] Install
     - [ ] Install Guide
     - [x] Hello There Code
