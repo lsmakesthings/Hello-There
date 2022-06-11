@@ -2,6 +2,8 @@
 
 Repo for all new to me concepts:
 
+## TODO List
+
 - [ ] Rust
     - [x] Install
     - [ ] Install Guide
@@ -22,7 +24,7 @@ Repo for all new to me concepts:
         - [ ] Install Guide
         - [ ] Javascript Hello There Code
         - Typescript
-            - [x] Install
+            - [ ] Install
             - [ ] Install Guide
             - [ ] Hello There Code
         - [ ] WebAssembly
@@ -31,13 +33,14 @@ Repo for all new to me concepts:
         - [ ] Install Guide
         - [ ] Javascript Hello There Code
         - Typescript
-            - [x] Install
+            - [ ] Install
             - [ ] Install Guide
             - [ ] Hello There Code
         - [ ] WebAssembly
 
-## Rust Install Guide
-## Golang Install Guide
-## Node Install Guide
-### Typescript Install Guide
-## Svelte Install Guide
+## Install Guides
+### Rust Install Guide
+### Golang Install Guide
+### Node Install Guide
+#### Typescript Install Guide
+### Svelte Install Guide
