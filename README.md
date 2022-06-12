@@ -22,20 +22,17 @@ Repo for all new to me concepts:
     - Node
         - [x] Install
         - [ ] Install Guide
-        - [ ] Javascript Hello There Code
+        - [x] Javascript Hello There Code
         - Typescript
-            - [ ] Install
+            - [x] Install
             - [ ] Install Guide
-            - [ ] Hello There Code
+            - [x] Hello There Code
         - [ ] WebAssembly
     - Svelte
         - [ ] Install
         - [ ] Install Guide
         - [ ] Javascript Hello There Code
-        - Typescript
-            - [ ] Install
-            - [ ] Install Guide
-            - [ ] Hello There Code
+        - [ ] Typescript Hello There Code
         - [ ] WebAssembly
 
 ## Install Guides
