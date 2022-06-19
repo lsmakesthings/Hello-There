@@ -1,0 +1,15 @@
+[package]
+name = "hello-there-wasm"
+version = "0.1.0"
+edition = "2021"
+
+authors = ["Lewis Smith <ls.makesthings@gmail.com>"]
+description = "A Hello There project with wasm-pack"
+license = "MIT/Apache-2.0"
+repository = "https://github.com/lsmakesthings/Hello-There"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+wasm-bindgen = "0.2"
