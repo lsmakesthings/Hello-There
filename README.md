@@ -8,7 +8,7 @@ Repo for all new to me concepts:
     - [x] Install
     - [ ] Install Guide
     - [x] Hello There Code
-    - [ ] Web Assembly
+    - [x] Web Assembly
 - Golang
     - [x] Install
     - [ ] Install Guide
@@ -17,7 +17,7 @@ Repo for all new to me concepts:
 - Web
     - Web Page
         - [x] Javascript Hello There Code
-        - [ ] WebAssembly
+        - [x] WebAssembly
         - [ ] Single Page Application
     - Node
         - [x] Install
@@ -29,11 +29,16 @@ Repo for all new to me concepts:
             - [x] Hello There Code
         - [ ] WebAssembly
     - Svelte
-        - [ ] Install
+        - [x] Install
         - [ ] Install Guide
-        - [ ] Javascript Hello There Code
-        - [ ] Typescript Hello There Code
+        - [x] Javascript Hello There Code
+        - [x] Typescript Hello There Code
         - [ ] WebAssembly
+- Desktop
+    - Tauri
+        - [x] Install
+        - [ ] Install Guide
+        - [x] Hello There Code
 
 ## Install Guides
 ### Rust Install Guide
